@@ -1,4 +1,4 @@
-FROM node:lst
+FROM node
 LABEL mantainer="Tony Huynh <mr.tonyhuynh@gmail.com>"
 
 # Install rsync and openssh-client
