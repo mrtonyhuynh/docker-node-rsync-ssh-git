@@ -7,6 +7,7 @@ RUN apt-get update && apt-get install -y \
     bash \
     git \
     openssh-client \
+    yarn \
     rsync
 
 # Remove Cache
